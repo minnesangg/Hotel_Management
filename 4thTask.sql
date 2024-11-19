@@ -25,3 +25,26 @@ JOIN Guests g ON r.Reservation = g.Receipt
 WHERE g.Date BETWEEN '2024-11-01' AND '2024-11-05'
 GROUP BY r.Type;
 
+
+SELECT 
+    g.Name AS GuestName,
+    r.Number AS RoomNumber,
+    r.Type AS RoomType,
+    res.ReservName AS ReservationName,
+    res.Come AS CheckInDate,
+    res.Leave AS CheckOutDate,
+    g.Money AS GuestMoney
+FROM 
+    Guests g
+JOIN 
+    Reservations res ON g.GuestID = res.GuestID
+JOIN 
+    Rooms r ON res.ReservationID = r.Reservation
+WHERE 
+    res.Come BETWEEN '2024-11-01' AND '2024-11-30'
+ORDER BY 
+    res.Come;
+
+
+
+
