@@ -52,15 +52,21 @@ CREATE TABLE Reservations (
     FOREIGN KEY (GuestID) REFERENCES Guests(GuestID) -- Зв'язок з таблицею Guests
 );
 
+CREATE TABLE Guests_Archive (
+    GuestID INT PRIMARY KEY,
+    Name VARCHAR(40),
+    Money DECIMAL(10, 2),
+    StayEnded DATETIME
+);
+
 -- Вставка тестових даних в таблицю Guests
 INSERT INTO Guests (GuestID, Name, Date, Address, Town, Aim, Passport, PassportDate, Region, Work, Year, Money, Cash, Receipt, DepartureDate, Comment, Registrar, Picture)
 VALUES 
 (1, 'Іван Іванов', '2024-11-01', 'вул. Шевченка, 1', 'Київ', 'Бізнес', 'AB123456', '2020-05-01', 'Київ', 'ТОВ "Приклад"', 1990, 2000.00, 1, 1001, '2024-11-05', 'Немає', 'Петренко', NULL);
 
--- Вставка тестових даних в таблицю Reservations
-INSERT INTO Reservations (ReservationID, GuestID, ReservName, Come, Leave)
-VALUES 
-(1, 1, 'Олена Оленко', '2024-11-01', '2024-11-05');
+
+INSERT INTO Guests (GuestID, Name, Money, Date)
+VALUES (10, 'Олена Оленко', 1000, '2024-11-01');
 
 -- Вставка тестових даних в таблицю Rooms
 INSERT INTO Rooms (Number, Rooms, Storey, TV, Fridge, Bed, Type, Balcony, Reservation)
@@ -72,6 +78,9 @@ VALUES
 SELECT * FROM Guests;
 SELECT * FROM Rooms;
 SELECT * FROM Reservations;
+SELECT * FROM Guests_Archive;
 GO
+
+
 
 
