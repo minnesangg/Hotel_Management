@@ -3,43 +3,47 @@
   "WorkspaceRootPath": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\addguestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:addguestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\searchform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:searchform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\addguestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:addguestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\addguestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:addguestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\crudform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:crudform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\addguestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:addguestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\crudform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:crudform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|WindowsFormsApp1.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,33 +66,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddGuestForm.Designer.cs",
-              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\AddGuestForm.Designer.cs",
-              "RelativeDocumentMoniker": "AddGuestForm.Designer.cs",
-              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\AddGuestForm.Designer.cs",
-              "RelativeToolTip": "AddGuestForm.Designer.cs",
-              "ViewState": "AgIAAIcBAAAAAAAAAAAuwJkBAAAbAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SearchForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\SearchForm.Designer.cs",
+              "RelativeDocumentMoniker": "SearchForm.Designer.cs",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\SearchForm.Designer.cs",
+              "RelativeToolTip": "SearchForm.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwHAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:49:44.208Z",
+              "WhenOpened": "2024-11-24T22:15:31.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CrudForm.cs",
-              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.cs",
-              "RelativeDocumentMoniker": "CrudForm.cs",
-              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.cs",
-              "RelativeToolTip": "CrudForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SearchForm.cs",
+              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\SearchForm.cs",
+              "RelativeDocumentMoniker": "SearchForm.cs",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\SearchForm.cs",
+              "RelativeToolTip": "SearchForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:26:56.93Z",
+              "WhenOpened": "2024-11-24T22:15:23.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SearchForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\SearchForm.cs",
+              "RelativeDocumentMoniker": "SearchForm.cs",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\SearchForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SearchForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:15:12.667Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:15:40.513Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:17:49.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CrudForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.cs",
+              "RelativeDocumentMoniker": "CrudForm.cs",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CrudForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:24:36.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:18:06.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AddGuestForm.cs",
               "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\AddGuestForm.cs",
               "RelativeDocumentMoniker": "AddGuestForm.cs",
@@ -101,57 +165,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddGuestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\AddGuestForm.cs",
-              "RelativeDocumentMoniker": "AddGuestForm.cs",
-              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\AddGuestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "AddGuestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:47:56.682Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CrudForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 7,
+              "Title": "CrudForm.cs",
               "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.cs",
               "RelativeDocumentMoniker": "CrudForm.cs",
-              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "CrudForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.cs",
+              "RelativeToolTip": "CrudForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:24:36.495Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-11-20T16:26:56.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:18:06.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\MainForm.cs",
-              "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:17:49.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "CrudForm.Designer.cs",
               "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.Designer.cs",
               "RelativeDocumentMoniker": "CrudForm.Designer.cs",
@@ -159,24 +185,11 @@
               "RelativeToolTip": "CrudForm.Designer.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAiwJEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:25:44.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T16:25:44.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:15:40.513Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",

@@ -17,7 +17,8 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
             this.btnCRUD.Click += new System.EventHandler(this.btnCRUD_Click); // резервация
-            this.btnGuest.Click += new System.EventHandler(this.btnGuest_Click);// добавление гостя
+            this.btnGuest.Click += new System.EventHandler(this.btnGuest_Click);
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);// добавление гостя
         }
        
         private void btnCRUD_Click(object sender, EventArgs e)
@@ -31,11 +32,11 @@ namespace WindowsFormsApp1
             addGuestForm.ShowDialog(); 
         }
 
-        //private void btnSearch_Click(object sender, EventArgs e)
-        //{
-        //    var searchForm = new SearchForm();
-        //    searchForm.ShowDialog(); // Показуємо форму пошуку
-        //}
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            var searchForm = new SearchForm();
+            searchForm.ShowDialog(); // Показуємо форму пошуку
+        }
 
         //private void btnExport_Click(object sender, EventArgs e)
         //{

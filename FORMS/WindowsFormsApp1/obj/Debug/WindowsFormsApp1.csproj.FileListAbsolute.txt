@@ -10,3 +10,4 @@ D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrudForm.resources
 D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
 D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddGuestForm.resources
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchForm.resources
