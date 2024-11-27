@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 using System.Windows.Forms;
 using System.Xml.Linq;
 
-namespace WindowsFormsApp1
+namespace HotelManagment
 {
     public partial class AddGuestForm : Form
     {

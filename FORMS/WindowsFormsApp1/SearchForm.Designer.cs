@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WindowsFormsApp1
+namespace HotelManagment
 {
     partial class SearchForm
     {

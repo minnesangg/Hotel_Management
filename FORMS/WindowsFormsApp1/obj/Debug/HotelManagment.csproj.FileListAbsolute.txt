@@ -1,0 +1,15 @@
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\HotelManagment.csproj.AssemblyReference.cache
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\HotelManagment.csproj.ResolveComReference.cache
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\HotelManagment.AddGuestForm.resources
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\HotelManagment.CrudForm.resources
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\HotelManagment.ExportForm.resources
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\HotelManagment.MainForm.resources
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\HotelManagment.SearchForm.resources
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\HotelManagment.csproj.GenerateResource.cache
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\HotelManagment.csproj.CoreCompileInputs.cache
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Windows.Forms;
 using Word = Microsoft.Office.Interop.Word;
 
-namespace WindowsFormsApp1
+namespace HotelManagment
 {
     public partial class ExportForm : Form
     {
@@ -135,7 +135,7 @@ namespace WindowsFormsApp1
 
                 if (reservationsTable.Rows.Count > 0)
                 {
-                    DataRow row = reservationsTable.Rows[0]; 
+                    DataRow row = reservationsTable.Rows[0];
                     if (bookmarks.Exists("ReservationID"))
                         bookmarks["ReservationID"].Range.Text = row["ReservationID"].ToString();
                     if (bookmarks.Exists("ReservName"))
@@ -180,7 +180,7 @@ namespace WindowsFormsApp1
 
                 if (guestsTable.Rows.Count > 0)
                 {
-                    DataRow row = guestsTable.Rows[0]; 
+                    DataRow row = guestsTable.Rows[0];
 
                     if (bookmarks.Exists("GuestID1"))
                         bookmarks["GuestID1"].Range.Text = row["GuestID"].ToString();
@@ -299,7 +299,7 @@ namespace WindowsFormsApp1
 
                 if (roomTypesTable.Rows.Count > 0)
                 {
-                    DataRow row = roomTypesTable.Rows[0]; 
+                    DataRow row = roomTypesTable.Rows[0];
 
                     if (bookmarks.Exists("Type"))
                         bookmarks["Type"].Range.Text = row["Type"].ToString();
@@ -338,7 +338,7 @@ namespace WindowsFormsApp1
 
                 if (guestsArchiveTable.Rows.Count > 0)
                 {
-                    DataRow row = guestsArchiveTable.Rows[0]; 
+                    DataRow row = guestsArchiveTable.Rows[0];
 
                     if (bookmarks.Exists("GuestID2"))
                         bookmarks["GuestID2"].Range.Text = row["GuestID"].ToString();
