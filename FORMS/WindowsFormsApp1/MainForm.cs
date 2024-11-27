@@ -12,13 +12,13 @@ namespace WindowsFormsApp1
 {
     public partial class MainForm : Form
     {
-
         public MainForm()
         {
             InitializeComponent();
-            this.btnCRUD.Click += new System.EventHandler(this.btnCRUD_Click); // резервация
+            this.btnCRUD.Click += new System.EventHandler(this.btnCRUD_Click); 
             this.btnGuest.Click += new System.EventHandler(this.btnGuest_Click);
-            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);// добавление гостя
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
+            this.btnExport.Click += new System.EventHandler(this.btnExport_Click);
         }
        
         private void btnCRUD_Click(object sender, EventArgs e)
@@ -35,14 +35,14 @@ namespace WindowsFormsApp1
         private void btnSearch_Click(object sender, EventArgs e)
         {
             var searchForm = new SearchForm();
-            searchForm.ShowDialog(); // Показуємо форму пошуку
+            searchForm.ShowDialog(); 
         }
 
-        //private void btnExport_Click(object sender, EventArgs e)
-        //{
-        //    var exportForm = new ExportForm();
-        //    exportForm.ShowDialog(); // Показуємо форму експорту
-        //}
+        private void btnExport_Click(object sender, EventArgs e)
+        {
+            var exportForm = new ExportForm();
+            exportForm.ShowDialog(); 
+        }
 
         private void MainForm_Load(object sender, EventArgs e)
         {

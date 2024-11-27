@@ -11,3 +11,5 @@ D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrudForm.resou
 D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
 D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddGuestForm.resources
 D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchForm.resources
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\КУРСАЧ\FORMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ExportForm.resources

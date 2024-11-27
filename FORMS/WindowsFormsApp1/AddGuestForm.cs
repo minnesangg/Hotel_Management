@@ -117,7 +117,6 @@ namespace WindowsFormsApp1
 
                 DateTime date, departureDate, passportDate;
 
-                // Проверяем, можно ли преобразовать строки в DateTime
                 if (!DateTime.TryParse(txtDate.Text, out date) ||
                     !DateTime.TryParse(txtDepartureDate.Text, out departureDate) ||
                     !DateTime.TryParse(txtPassportDate.Text, out passportDate))
@@ -135,7 +134,6 @@ namespace WindowsFormsApp1
 
                 SqlCommand command = new SqlCommand(updateQuery, connection);
 
-                // Используем значения из текстовых полей
                 command.Parameters.AddWithValue("@Address", txtAddress.Text);
                 command.Parameters.AddWithValue("@Aim", txtAim.Text);
                 command.Parameters.AddWithValue("@Cash", checkBoxCash.Checked);
@@ -167,9 +165,6 @@ namespace WindowsFormsApp1
                 connection.Close();
             }
         }
-
-
-        // Удаление данных
         private void DeleteButton_Click(object sender, EventArgs e)
         {
             try

@@ -12,9 +12,6 @@ namespace WindowsFormsApp1
         public CrudForm()
         {
             InitializeComponent();
-            //this.addButton.Click += new System.EventHandler(this.AddButton_Click);
-            //this.deleteButton.Click += new System.EventHandler(this.DeleteButton_Click);
-            //this.updateButton.Click += new System.EventHandler(this.UpdateButton_Click);
 
             string connectionString = "Data Source=(local); Initial Catalog=HotelManagment; Integrated Security=True";
             connection = new SqlConnection(connectionString);
