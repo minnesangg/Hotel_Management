@@ -105,6 +105,9 @@ namespace HotelManagment
                     case "Guests_Archive":
                         ExportGuestArchive(doc);
                         break;
+                    case "Accomodation":
+                        ExportAccomodation(doc);
+                        break;
                     default:
                         MessageBox.Show("Экспорт для данной таблицы не реализован.");
                         break;
@@ -237,7 +240,7 @@ namespace HotelManagment
                     string query = @"
                 SELECT 
                     Number, Rooms, Storey, TV, Fridge, Bed, Type, 
-                    Balcony, Reservation 
+                    Balcony 
                 FROM Rooms;";
                     SqlDataAdapter adapter = new SqlDataAdapter(query, connection);
                     connection.Open();
@@ -266,8 +269,6 @@ namespace HotelManagment
                         bookmarks["Type"].Range.Text = row["Type"].ToString();
                     if (bookmarks.Exists("Balcony"))
                         bookmarks["Balcony"].Range.Text = row["Balcony"].ToString();
-                    if (bookmarks.Exists("Reservation"))
-                        bookmarks["Reservation"].Range.Text = row["Reservation"].ToString();
                 }
                 else
                 {
@@ -359,6 +360,47 @@ namespace HotelManagment
                 MessageBox.Show($"Ошибка при экспорте таблицы GuestsArchive: {ex.Message}");
             }
         }
+        private void ExportAccomodation(Word.Document doc)
+        {
+            try
+            {
+                DataTable guestsArchiveTable = new DataTable();
 
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    string query = @"
+                SELECT 
+                    GuestID, Number, Date, StayEnded
+                FROM Accomodation;";
+                    SqlDataAdapter adapter = new SqlDataAdapter(query, connection);
+                    connection.Open();
+                    adapter.Fill(guestsArchiveTable);
+                }
+
+                Word.Bookmarks bookmarks = doc.Bookmarks;
+
+                if (guestsArchiveTable.Rows.Count > 0)
+                {
+                    DataRow row = guestsArchiveTable.Rows[0];
+
+                    if (bookmarks.Exists("GuestID3"))
+                        bookmarks["GuestID3"].Range.Text = row["GuestID"].ToString();
+                    if (bookmarks.Exists("Number3"))
+                        bookmarks["Number3"].Range.Text = row["Number"].ToString();
+                    if (bookmarks.Exists("Date1"))
+                        bookmarks["Date1"].Range.Text = row["Date"].ToString();
+                    if (bookmarks.Exists("End1"))
+                        bookmarks["End1"].Range.Text = row["StayEnded"].ToString();
+                }
+                else
+                {
+                    MessageBox.Show("Таблица Accomodation не содержит данных.");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ошибка при экспорте таблицы Accomodation: {ex.Message}");
+            }
+        }
     }
 }
