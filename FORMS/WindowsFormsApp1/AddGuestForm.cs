@@ -178,17 +178,37 @@ namespace HotelManagment
                 DialogResult dialogResult = MessageBox.Show("Ви дійсно хочете видалити цього гостя?", "Підтвердження", MessageBoxButtons.YesNo);
                 if (dialogResult == DialogResult.Yes)
                 {
-                    string deleteQuery = "DELETE FROM Guests WHERE GuestID = @GuestID";
+                    int guestID = Convert.ToInt32(dgvGuests.SelectedRows[0].Cells["GuestID"].Value);
 
-                    SqlCommand command = new SqlCommand(deleteQuery, connection);
-                    command.Parameters.AddWithValue("@GuestID", Convert.ToInt32(dgvGuests.SelectedRows[0].Cells["GuestID"].Value));
+                    string deleteReservationsQuery = "DELETE FROM Reservations WHERE GuestID = @GuestID";
+                    string deleteAccommodationQuery = "DELETE FROM Accomodation WHERE GuestID = @GuestID";
+                    string deleteGuestQuery = "DELETE FROM Guests WHERE GuestID = @GuestID";
 
-                    connection.Open();
-                    command.ExecuteNonQuery();
-                    connection.Close();
+                    SqlCommand command = new SqlCommand(deleteReservationsQuery, connection);
+                    command.Parameters.AddWithValue("@GuestID", guestID);
 
-                    MessageBox.Show("Гість успішно видалений.");
-                    LoadData("SELECT * FROM Guests");
+                    try
+                    {
+                        connection.Open();
+
+                        command.ExecuteNonQuery();
+                        command.CommandText = deleteAccommodationQuery;
+                        command.ExecuteNonQuery();
+
+                        command.CommandText = deleteGuestQuery;
+                        command.ExecuteNonQuery();
+
+                        MessageBox.Show("Гість успішно видалений.");
+                        LoadData("SELECT * FROM Guests");
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Помилка видалення даних: " + ex.Message);
+                    }
+                    finally
+                    {
+                        connection.Close();
+                    }
                 }
             }
             catch (Exception ex)

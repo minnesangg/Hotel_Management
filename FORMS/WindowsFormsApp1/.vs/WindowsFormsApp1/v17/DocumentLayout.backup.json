@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\exportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\addguestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|solutionrelative:addguestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\addguestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|solutionrelative:addguestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|solutionrelative:crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|solutionrelative:crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\exportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|solutionrelative:exportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\exportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\exportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|solutionrelative:exportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|d:\\\u043A\u0443\u0440\u0441\u0430\u0447\\forms\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98BCEF15-FB9C-49BC-A6C9-373B6ABA364B}|HotelManagment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,32 +66,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddGuestForm.cs",
+              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\AddGuestForm.cs",
+              "RelativeDocumentMoniker": "AddGuestForm.cs",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\AddGuestForm.cs",
+              "RelativeToolTip": "AddGuestForm.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAK0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:09:33.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AddGuestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\AddGuestForm.cs",
+              "RelativeDocumentMoniker": "AddGuestForm.cs",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\AddGuestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AddGuestForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:09:32.548Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrudForm.cs",
+              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.cs",
+              "RelativeDocumentMoniker": "CrudForm.cs",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.cs",
+              "RelativeToolTip": "CrudForm.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAuwIsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:51:28.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrudForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.cs",
+              "RelativeDocumentMoniker": "CrudForm.cs",
+              "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\CrudForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CrudForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:50:03.917Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ExportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\ExportForm.cs",
               "RelativeDocumentMoniker": "ExportForm.cs",
               "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\ExportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "ExportForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:30:30.187Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-12-09T16:30:30.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ExportForm.cs",
               "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\ExportForm.cs",
               "RelativeDocumentMoniker": "ExportForm.cs",
               "ToolTip": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\ExportForm.cs",
               "RelativeToolTip": "ExportForm.cs",
-              "ViewState": "AgIAAHYBAAAAAAAAAAAAAIUBAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwIgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:31:55.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T15:31:55.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -83,12 +147,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T15:43:43.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T15:43:43.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "SearchForm.cs",
               "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\SearchForm.cs",
               "RelativeDocumentMoniker": "SearchForm.cs",
@@ -100,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "SearchForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\SearchForm.cs",
               "RelativeDocumentMoniker": "SearchForm.cs",
@@ -111,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ExportForm.cs",
               "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\ExportForm.cs",
               "RelativeDocumentMoniker": "ExportForm.cs",
@@ -123,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u041A\u0423\u0420\u0421\u0410\u0427\\FORMS\\WindowsFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

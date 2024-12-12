@@ -67,8 +67,8 @@ namespace HotelManagment
                     return;
                 }
                 string insertQuery = @"
-                    INSERT INTO Reservations (Come, GuestID, Leave, ReservationID, ReservName)
-                    VALUES (@Come, @GuestID, @Leave, @ReservationID, @ReservName)";
+                    INSERT INTO Reservations (Come, GuestID, Leave, ReservationID, ReservName, Number)
+                    VALUES (@Come, @GuestID, @Leave, @ReservationID, @ReservName, @Number)";
                 SqlCommand command = new SqlCommand(insertQuery, connection);
 
                 command.Parameters.AddWithValue("@Come", txtCome.Text);
@@ -76,6 +76,7 @@ namespace HotelManagment
                 command.Parameters.AddWithValue("@Leave", txtLeave.Text);
                 command.Parameters.AddWithValue("@ReservationID", Convert.ToInt32(txtReservID.Text)); 
                 command.Parameters.AddWithValue("@ReservName", txtReservName.Text);
+                command.Parameters.AddWithValue("@Number", textBox1.Text);
 
                 connection.Open();
                 command.ExecuteNonQuery();
@@ -136,7 +137,7 @@ namespace HotelManagment
 
                 string updateQuery = @"
                     UPDATE Reservations 
-                    SET Come = @Come, GuestID = @GuestID, Leave = @Leave, ReservName = @ReservName
+                    SET Come = @Come, GuestID = @GuestID, Leave = @Leave, ReservName = @ReservName, Number = @Number
                     WHERE ReservationID = @ReservationID";
                 SqlCommand command = new SqlCommand(updateQuery, connection);
 
@@ -144,7 +145,8 @@ namespace HotelManagment
                 command.Parameters.AddWithValue("@GuestID", Convert.ToInt32(txtGuestID.Text)); 
                 command.Parameters.AddWithValue("@Leave", txtLeave.Text);
                 command.Parameters.AddWithValue("@ReservName", txtReservName.Text);
-                command.Parameters.AddWithValue("@ReservationID", Convert.ToInt32(txtReservID.Text)); 
+                command.Parameters.AddWithValue("@ReservationID", Convert.ToInt32(txtReservID.Text));
+                command.Parameters.AddWithValue("@Number", textBox1.Text);
 
                 connection.Open();
                 command.ExecuteNonQuery();

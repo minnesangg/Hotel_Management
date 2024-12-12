@@ -43,6 +43,8 @@
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -74,7 +76,7 @@
             this.updateButton.Name = "updateButton";
             this.updateButton.Size = new System.Drawing.Size(133, 37);
             this.updateButton.TabIndex = 3;
-            this.updateButton.Text = "Update";
+            this.updateButton.Text = "Оновити";
             this.updateButton.UseVisualStyleBackColor = true;
             this.updateButton.Click += new System.EventHandler(this.UpdateButton_Click);
             // 
@@ -85,7 +87,7 @@
             this.deleteButton.Name = "deleteButton";
             this.deleteButton.Size = new System.Drawing.Size(133, 37);
             this.deleteButton.TabIndex = 4;
-            this.deleteButton.Text = "Delete";
+            this.deleteButton.Text = "Видалити";
             this.deleteButton.UseVisualStyleBackColor = true;
             this.deleteButton.Click += new System.EventHandler(this.DeleteButton_Click);
             // 
@@ -100,35 +102,35 @@
             // 
             // txtCome
             // 
-            this.txtCome.Location = new System.Drawing.Point(16, 368);
+            this.txtCome.Location = new System.Drawing.Point(366, 387);
             this.txtCome.Name = "txtCome";
             this.txtCome.Size = new System.Drawing.Size(146, 22);
             this.txtCome.TabIndex = 6;
             // 
             // txtLeave
             // 
-            this.txtLeave.Location = new System.Drawing.Point(226, 368);
+            this.txtLeave.Location = new System.Drawing.Point(557, 387);
             this.txtLeave.Name = "txtLeave";
             this.txtLeave.Size = new System.Drawing.Size(135, 22);
             this.txtLeave.TabIndex = 7;
             // 
             // txtGuestID
             // 
-            this.txtGuestID.Location = new System.Drawing.Point(412, 368);
+            this.txtGuestID.Location = new System.Drawing.Point(728, 387);
             this.txtGuestID.Name = "txtGuestID";
             this.txtGuestID.Size = new System.Drawing.Size(135, 22);
             this.txtGuestID.TabIndex = 8;
             // 
             // txtReservName
             // 
-            this.txtReservName.Location = new System.Drawing.Point(616, 368);
+            this.txtReservName.Location = new System.Drawing.Point(192, 387);
             this.txtReservName.Name = "txtReservName";
             this.txtReservName.Size = new System.Drawing.Size(130, 22);
             this.txtReservName.TabIndex = 9;
             // 
             // txtReservID
             // 
-            this.txtReservID.Location = new System.Drawing.Point(846, 368);
+            this.txtReservID.Location = new System.Drawing.Point(22, 387);
             this.txtReservID.Name = "txtReservID";
             this.txtReservID.Size = new System.Drawing.Size(137, 22);
             this.txtReservID.TabIndex = 10;
@@ -136,7 +138,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(58, 334);
+            this.label6.Location = new System.Drawing.Point(401, 353);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(70, 16);
             this.label6.TabIndex = 11;
@@ -145,7 +147,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(871, 334);
+            this.label8.Location = new System.Drawing.Point(44, 353);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(93, 16);
             this.label8.TabIndex = 13;
@@ -154,7 +156,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(450, 334);
+            this.label9.Location = new System.Drawing.Point(762, 353);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(58, 16);
             this.label9.TabIndex = 14;
@@ -163,7 +165,7 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(630, 334);
+            this.label10.Location = new System.Drawing.Point(201, 353);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(102, 16);
             this.label10.TabIndex = 15;
@@ -172,17 +174,35 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(260, 334);
+            this.label11.Location = new System.Drawing.Point(586, 353);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(64, 16);
             this.label11.TabIndex = 16;
             this.label11.Text = "Відбуття";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(939, 353);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(50, 16);
+            this.label7.TabIndex = 17;
+            this.label7.Text = "Номер";
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(895, 387);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(137, 22);
+            this.textBox1.TabIndex = 18;
             // 
             // CrudForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1045, 629);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.label9);
@@ -235,5 +255,7 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }

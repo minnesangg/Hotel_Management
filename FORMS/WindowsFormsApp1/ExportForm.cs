@@ -128,7 +128,7 @@ namespace HotelManagment
                 DataTable reservationsTable = new DataTable();
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
-                    string query = "SELECT ReservationID, ReservName, Come, Leave, GuestID FROM Reservations;";
+                    string query = "SELECT ReservationID, ReservName, Come, Leave, GuestID, Number FROM Reservations;";
                     SqlDataAdapter adapter = new SqlDataAdapter(query, connection);
                     connection.Open();
                     adapter.Fill(reservationsTable);
@@ -149,6 +149,8 @@ namespace HotelManagment
                         bookmarks["Leave"].Range.Text = DateTime.Parse(row["Leave"].ToString()).ToShortDateString();
                     if (bookmarks.Exists("GuestID"))
                         bookmarks["GuestID"].Range.Text = row["GuestID"].ToString();
+                    if (bookmarks.Exists("ReservNumber"))
+                        bookmarks["ReservNumber"].Range.Text = row["Number"].ToString();
                 }
                 else
                 {
