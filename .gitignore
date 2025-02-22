@@ -1,1 +1,11 @@
 КУРСОВА_НЕРЯНОВ.docx
+
+# Ignore build folders
+bin/
+obj/
+
+# Ignore Visual Basic packages folder
+packages/
+
+# Ignore project properties (if not necessary)
+Properties/
