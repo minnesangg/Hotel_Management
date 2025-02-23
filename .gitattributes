@@ -10,10 +10,11 @@ FORMS/WindowsFormsApp1/*.sln linguist-generated
 
 # Исключаем конкретные файлы из статистики
 FORMS/WindowsFormsApp1/AddGuestForm.cs linguist-generated
-FORMS/WindowsFormsApp1/CrudForm.cs linguist-generated
 FORMS/WindowsFormsApp1/ExportForm.cs linguist-generated
 FORMS/WindowsFormsApp1/HotelManagment.csproj linguist-generated
-FORMS/WindowsFormsApp1/MainForm.cs linguist-generated
-FORMS/WindowsFormsApp1/Program.cs linguist-generated
-FORMS/WindowsFormsApp1/SearchForm.cs linguist-generated
 FORMS/WindowsFormsApp1/WindowsFormsApp1.sln linguist-generated
+
+# Исключаем файлы базы данных и SQL-скрипты
+SQL/*.mdf linguist-generated
+SQL/*.ldf linguist-generated
+SQL/*.sql linguist-generated
