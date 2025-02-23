@@ -1,8 +1,19 @@
-*.csproj linguist-generated
-*.sln linguist-generated
+# Исключаем автоматически сгенерированные файлы
+FORMS/WindowsFormsApp1/*.Designer.cs linguist-generated
+FORMS/WindowsFormsApp1/*.resx linguist-generated
+FORMS/WindowsFormsApp1/App.config linguist-generated
+FORMS/WindowsFormsApp1/packages.config linguist-generated
 
-*.Designer.cs linguist-generated
-*.resx linguist-generated
+# Исключаем файлы проекта и решения
+FORMS/WindowsFormsApp1/*.csproj linguist-generated
+FORMS/WindowsFormsApp1/*.sln linguist-generated
 
-bin/ linguist-generated
-obj/ linguist-generated
+# Исключаем конкретные файлы из статистики
+FORMS/WindowsFormsApp1/AddGuestForm.cs linguist-generated
+FORMS/WindowsFormsApp1/CrudForm.cs linguist-generated
+FORMS/WindowsFormsApp1/ExportForm.cs linguist-generated
+FORMS/WindowsFormsApp1/HotelManagment.csproj linguist-generated
+FORMS/WindowsFormsApp1/MainForm.cs linguist-generated
+FORMS/WindowsFormsApp1/Program.cs linguist-generated
+FORMS/WindowsFormsApp1/SearchForm.cs linguist-generated
+FORMS/WindowsFormsApp1/WindowsFormsApp1.sln linguist-generated
