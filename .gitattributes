@@ -1,11 +1,8 @@
-# Исключаем файлы конфигурации проекта и решения
-*.csproj linguist-vendored
-*.sln linguist-vendored
+*.csproj linguist-generated
+*.sln linguist-generated
 
-# Исключаем дизайнерские файлы WinForms (они генерируются автоматически)
-*.Designer.cs linguist-vendored
-*.resx linguist-vendored
+*.Designer.cs linguist-generated
+*.resx linguist-generated
 
-# Исключаем файлы сборки
-bin/ linguist-vendored
-obj/ linguist-vendored
+bin/ linguist-generated
+obj/ linguist-generated
