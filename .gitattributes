@@ -1,8 +1,0 @@
-*.csproj linguist-generated
-*.sln linguist-generated
-
-*.Designer.cs linguist-generated
-*.resx linguist-generated
-
-bin/ linguist-generated
-obj/ linguist-generated
