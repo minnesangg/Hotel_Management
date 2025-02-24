@@ -9,3 +9,6 @@ packages/
 
 # Ignore project properties (if not necessary)
 Properties/
+
+# Ignore .docx files
+*.docx
