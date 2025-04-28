@@ -10,7 +10,5 @@ packages/
 # Ignore project properties (if not necessary)
 Properties/
 
-SQL/
-
 # Ignore .docx files
 *.docx
