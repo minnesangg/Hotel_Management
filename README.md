@@ -36,18 +36,6 @@ This is a hotel management system built using **C# WinForms** and **SQL Server**
 3. Connect the application to your **SQL Server database**.
 4. Run the application and manage reservations and guests.
 
-## 📄 Future Improvements:
-- **Enhanced Reporting**: Adding more advanced reporting options for financials, bookings, etc.
-- **Guest History**: Expanding the guest tracking system to include a full history of past visits.
-- **Online Integration**: Adding the ability for guests to make reservations online, which would sync with the system.
-
-## 📫 Contact:
-For more information, you can reach me at: **minnesangdev@gmail.com**
-
----
-
-### Русская версия:
-
 ---
 
 # Система Управления Отелем
@@ -88,10 +76,3 @@ For more information, you can reach me at: **minnesangdev@gmail.com**
 3. Подключите приложение к базе данных **SQL Server**.
 4. Запустите приложение и управляйте резервированиями и гостями.
 
-## 📄 Будущие улучшения:
-- **Расширенная отчетность**: Добавление более сложных отчетов по финансовым операциям, бронированиям и т.д.
-- **История гостей**: Расширение системы отслеживания гостей для включения полной истории их визитов.
-- **Интеграция с интернетом**: Добавление функции онлайн-бронирования, синхронизированного с системой.
-
-## 📫 Контакт:
-Для получения дополнительной информации, можете связаться со мной по почте: **minnesangdev@gmail.com**
